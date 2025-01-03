@@ -14,4 +14,4 @@ Criar uma nova Branch; [ ]
 
 Realizar um Pull Request e Merge; [ ]
 
-Criar nosso primeiro Fork; [ ]
+Criar nosso primeiro Fork; [ ].
